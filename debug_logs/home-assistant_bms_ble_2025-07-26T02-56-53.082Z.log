@@ -1,0 +1,173 @@
+2025-07-25 22:56:33.191 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa0170310500008a010080dc0000005b23000046000000ac4100000b020000a508000096380000df4384681500
+2025-07-25 22:56:33.191 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:33.192 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:33.192 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:33.192 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.394A, SOC: 70%, Temp: 22.0°C, Remaining: 90.51Ah, Power: -5.24W
+2025-07-25 22:56:34.188 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa0170310500008a010080dc0000005b23000046000000ac4100000b020000a508000096380000e04384682a00
+2025-07-25 22:56:34.188 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:34.188 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:34.188 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:34.189 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.394A, SOC: 70%, Temp: 22.0°C, Remaining: 90.51Ah, Power: -5.24W
+2025-07-25 22:56:35.202 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000087010080dc0000005b23000046000000ac41000007020000a508000096380000e14384682a00
+2025-07-25 22:56:35.203 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:35.203 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:35.203 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:35.203 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.391A, SOC: 70%, Temp: 22.0°C, Remaining: 90.51Ah, Power: -5.20W
+2025-07-25 22:56:36.244 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000084010080dc0000005b23000046000000ac41000003020000a508000096380000e24384682e00
+2025-07-25 22:56:36.244 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:36.244 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:36.245 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:36.245 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.388A, SOC: 70%, Temp: 22.0°C, Remaining: 90.51Ah, Power: -5.16W
+2025-07-25 22:56:37.205 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000084010080dc0000005b23000046000000ac41000003020000a508000096380000e34384682f00
+2025-07-25 22:56:37.205 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:37.205 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:37.205 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:37.206 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.388A, SOC: 70%, Temp: 22.0°C, Remaining: 90.51Ah, Power: -5.16W
+2025-07-25 22:56:37.836 DEBUG (MainThread) [custom_components.bms_ble] Unloaded config entry: E0:4E:7A:AF:5E:06, ok? True!
+2025-07-25 22:56:37.837 DEBUG (MainThread) [custom_components.bms_ble] Shutting down BMS (Pro BMS)
+2025-07-25 22:56:37.837 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] disconnecting BMS (False)
+2025-07-25 22:56:37.837 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Packet stats: {'total': 28, 'init_responses': 3, 'data_packets': 23, 'invalid': 0, 'unknown_types': {}}
+2025-07-25 22:56:37.837 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] disconnecting BMS (True)
+2025-07-25 22:56:37.866 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] disconnected from BMS
+2025-07-25 22:56:37.868 DEBUG (MainThread) [custom_components.bms_ble] Setup of <ConfigEntry entry_id=01K12AGJVG7HV5ZCRZNVRXR957 version=1 domain=bms_ble title=Pro BMS state=ConfigEntryState.SETUP_IN_PROGRESS unique_id=E0:4E:7A:AF:5E:06>
+2025-07-25 22:56:37.869 DEBUG (MainThread) [custom_components.bms_ble] Loading BMS plugin type: custom_components.bms_ble.plugins.pro_bms for device E0:4E:7A:AF:5E:06
+2025-07-25 22:56:37.869 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] initializing Pro BMS Smart Shunt, BT address: E0:4E:7A:AF:5E:06
+2025-07-25 22:56:37.870 DEBUG (MainThread) [custom_components.bms_ble] Initializing coordinator for Pro BMS (E0:4E:7A:AF:5E:06) as Pro BMS Smart Shunt
+2025-07-25 22:56:37.870 DEBUG (MainThread) [custom_components.bms_ble] Pro BMS: advertisement: {'name': 'Pro BMS', 'address': 'E0:4E:7A:AF:5E:06', 'rssi': -69, 'manufacturer_data': {
+	48210: b'\xeb\x14\x02K\x9a\x90G\x9eb\xee\x92\xc4\x15\xdf', 
+	76: b'\x02\x15\x95\x85\x1d\xb5\x04\xb8\xea0\x11a\x13\xcc\xfb\xff\xc8\x171\x05\x88\x01\x80', 
+	8496: b'\xce\x8a\xe2d\xad\xbc\xb6\x03x\xf3rS,\xa0', 
+	22175: b'\xe5{ \xc8\xfb\xd3\xce\x07\x802\xa9\xb3\xe7\xa3', 
+	14034: b'1\x9b6\x13\x83\x85\x91\x81\xf8m\xcd\x84\xdbq', 
+	25632: b'L\x19\xe6\xaf\xce\x17[\xbb\xf1\xde0i\\A', 
+	56066: b'\xe4\x15\x9d\xdd}\x14\xc6s\xa5.P\xa1)\x87', 
+	6547: b'\x1aa\xf7\xd5k7V\xe5\xc2?\x93&\xd8\xbb', 
+	42543: b'\xff\xc5C\xd45\xb0@\xf7\xc5\xcd.\xb4\xb1\x1d', 
+	51986: b'el\x1d\x92\x06NF\xad\x15\x1ea\x9e\x87|', 
+	17975: b'\x1do\xcf\xe3\\r\xf8\r\xc5\xf8*P7`', 
+	47648: b'X\xb6\x8e1f\x90X!\xdc\x17\x9a\xe0j\xe3', 
+	9633: b")\xb6\xcd\x9awF\xff\xe6\x16'c\x17`[", 
+	62713: b'\x8a\xd4J\xdbi\xed5T\x05\xd0\xf5\xebCQ', 
+	10662: b'\xce,X9_\xe2\x95\x1eiR\x18\xf6\xca\xe9', 
+	35566: b'$h%\xae\xd1Yh\xf9\xf2\xf0\xbe\x1b\x06\x8e', 
+	29637: b'\xa3\xd3\xa4O\xde\xfd\xa7\x07[\xb9m\xd4\xef\xc4', 
+	13117: b'\x99\x02\xaa\xe7\xf5\xb8\n\xab\xe5t)\xa6(\xe4', 
+	65326: b'\xe1\xe5RX]\xf8\xac\xebS\xc2\x1f\x9bd\x89', 
+	57893: b'\xae\xe4h\x90\xdeMe\xa3t\x02kb\x9fZ'}, 'service_data': {}, 'service_uuids': ['0000fff0-0000-1000-8000-00805f9b34fb'], 'source': 'D8:3B:DA:9B:7D:62', 'advertisement': AdvertisementData(local_name='Pro BMS', manufacturer_data={
+	48210: b'\xeb\x14\x02K\x9a\x90G\x9eb\xee\x92\xc4\x15\xdf', 
+	76: b'\x02\x15\x95\x85\x1d\xb5\x04\xb8\xea0\x11a\x13\xcc\xfb\xff\xc8\x171\x05\x88\x01\x80', 
+	8496: b'\xce\x8a\xe2d\xad\xbc\xb6\x03x\xf3rS,\xa0', 
+	22175: b'\xe5{ \xc8\xfb\xd3\xce\x07\x802\xa9\xb3\xe7\xa3', 
+	14034: b'1\x9b6\x13\x83\x85\x91\x81\xf8m\xcd\x84\xdbq', 
+	25632: b'L\x19\xe6\xaf\xce\x17[\xbb\xf1\xde0i\\A', 
+	56066: b'\xe4\x15\x9d\xdd}\x14\xc6s\xa5.P\xa1)\x87', 
+	6547: b'\x1aa\xf7\xd5k7V\xe5\xc2?\x93&\xd8\xbb', 
+	42543: b'\xff\xc5C\xd45\xb0@\xf7\xc5\xcd.\xb4\xb1\x1d', 
+	51986: b'el\x1d\x92\x06NF\xad\x15\x1ea\x9e\x87|', 
+	17975: b'\x1do\xcf\xe3\\r\xf8\r\xc5\xf8*P7`', 
+	47648: b'X\xb6\x8e1f\x90X!\xdc\x17\x9a\xe0j\xe3', 
+	9633: b")\xb6\xcd\x9awF\xff\xe6\x16'c\x17`[", 
+	62713: b'\x8a\xd4J\xdbi\xed5T\x05\xd0\xf5\xebCQ', 
+	10662: b'\xce,X9_\xe2\x95\x1eiR\x18\xf6\xca\xe9', 
+	35566: b'$h%\xae\xd1Yh\xf9\xf2\xf0\xbe\x1b\x06\x8e', 
+	29637: b'\xa3\xd3\xa4O\xde\xfd\xa7\x07[\xb9m\xd4\xef\xc4', 
+	13117: b'\x99\x02\xaa\xe7\xf5\xb8\n\xab\xe5t)\xa6(\xe4', 
+	65326: b'\xe1\xe5RX]\xf8\xac\xebS\xc2\x1f\x9bd\x89', 
+	57893: b'\xae\xe4h\x90\xdeMe\xa3t\x02kb\x9fZ'}, service_uuids=['0000fff0-0000-1000-8000-00805f9b34fb'], tx_power=-127, rssi=-69), 'device': BLEDevice(E0:4E:7A:AF:5E:06, Pro BMS), 'connectable': True, 'time': 521.35592151, 'tx_power': None, 'raw': b'\x02\x01\x06\x03\x02\xf0\xff\x11\xff\x9fV\xe5{ \xc8\xfb\xd3\xce\x07\x802\xa9\xb3\xe7\xa3'}
+2025-07-25 22:56:37.870 DEBUG (MainThread) [custom_components.bms_ble] Pro BMS: BMS data update
+2025-07-25 22:56:37.870 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] connecting BMS
+2025-07-25 22:56:37.871 DEBUG (MainThread) [bleak_retry_connector] E0:4E:7A:AF:5E:06 - E0:4E:7A:AF:5E:06: Connection attempt: 1
+2025-07-25 22:56:38.892 DEBUG (MainThread) [bleak_retry_connector] E0:4E:7A:AF:5E:06 - E0:4E:7A:AF:5E:06: Connected after 1 attempts
+2025-07-25 22:56:38.909 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Starting Pro BMS update
+2025-07-25 22:56:38.910 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Checking if device is already streaming data...
+2025-07-25 22:56:39.419 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Device not streaming, sending Extended info command for initialization
+2025-07-25 22:56:39.422 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Extended info command sent successfully
+2025-07-25 22:56:39.568 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (95 bytes): 55aa5a0380aa01420080000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0a0500004600000005000000a00500000200000005000000f0000000020000000100000007000000f000
+2025-07-25 22:56:39.568 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x03, length 95
+2025-07-25 22:56:39.568 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:39.568 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received init response
+2025-07-25 22:56:39.569 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Sending ACK command
+2025-07-25 22:56:39.575 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Waiting for data packets (received 1 init responses so far)
+2025-07-25 22:56:39.671 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Sending Data Stream request
+2025-07-25 22:56:39.821 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (14 bytes): 55aa0a0380aa01430055aa120086
+2025-07-25 22:56:39.821 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x03, length 15
+2025-07-25 22:56:39.873 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (154 bytes): 55aa960380aa0143003105260001dc00003105270001dc00003105270001dc00003105270001dc00003105270001dc00003105270001dc00003105280001dc00003105270001dc00003105260001dc00003105260001dc00003105270001dc00003105270001dc00003105270001dc00003105270001dc00003105270001dc00003105260001dc00003105260001dc00003105270001dd000064
+2025-07-25 22:56:39.873 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Buffer before: 14 bytes, first 10: 55aa0a0380aa01430055
+2025-07-25 22:56:39.874 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x03, length 15
+2025-07-25 22:56:39.874 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:39.874 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received init response
+2025-07-25 22:56:39.911 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (14 bytes): 55aa0a0380aa014300aa55000094
+2025-07-25 22:56:39.911 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Buffer before: 10 bytes, first 10: 003105270001dd000064
+2025-07-25 22:56:39.912 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Removing 10 bytes before header
+2025-07-25 22:56:39.912 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x03, length 15
+2025-07-25 22:56:40.212 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000086010080dc0000005b23000046000000ac41000006020000a508000096380000e64384682d00
+2025-07-25 22:56:40.212 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Buffer before: 14 bytes, first 10: 55aa0a0380aa014300aa
+2025-07-25 22:56:40.212 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x03, length 15
+2025-07-25 22:56:40.213 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:40.213 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received init response
+2025-07-25 22:56:41.222 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000086010080dc0000005b23000046000000ac41000006020000a508000096380000e74384682c00
+2025-07-25 22:56:41.222 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Buffer before: 10 bytes, first 10: 96380000e64384682d00
+2025-07-25 22:56:41.222 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Removing 10 bytes before header
+2025-07-25 22:56:41.222 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:41.223 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:41.223 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:41.223 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.390A, SOC: 70%, Temp: 22.0°C, Remaining: 90.51Ah, Power: -5.18W
+2025-07-25 22:56:41.258 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received data after init command. Stats: {'total': 6, 'init_responses': 3, 'data_packets': 1, 'invalid': 0, 'unknown_types': {}}
+2025-07-25 22:56:41.258 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Returning sample: {'voltage': 13.29, 'current': -0.39, 'battery_level': 70, 'cycles': None, 'temperature': 22.0, 'temp_values': [22.0], 'cycle_charge': 90.51, 'remaining_capacity': 90.51, 'design_capacity': 144, 'power': -5.18, 'runtime': 1008720, 'battery_charging': False}
+2025-07-25 22:56:41.258 DEBUG (MainThread) [custom_components.bms_ble] Pro BMS: BMS data sample {'voltage': 13.29, 'current': -0.39, 'battery_level': 70, 'cycles': None, 'temperature': 22.0, 'temp_values': [22.0], 'cycle_charge': 90.51, 'remaining_capacity': 90.51, 'design_capacity': 144, 'power': -5.18, 'runtime': 1008720, 'battery_charging': False, 'cycle_capacity': 1202.878, 'problem': False}
+2025-07-25 22:56:41.259 DEBUG (MainThread) [custom_components.bms_ble] Finished fetching Pro BMS data in 3.388 seconds (success: True)
+2025-07-25 22:56:42.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000086010080dc0000005a23000046000000ac41000006020000a508000096380000e84384682200
+2025-07-25 22:56:42.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:42.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:42.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:42.221 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.390A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.18W
+2025-07-25 22:56:43.263 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000088010080dc0000005a23000046000000ab41000008020000a508000096380000e94384682400
+2025-07-25 22:56:43.264 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:43.264 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:43.264 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:43.264 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.392A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.21W
+2025-07-25 22:56:44.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000088010080dc0000005a23000046000000ab41000008020000a508000096380000ea4384682700
+2025-07-25 22:56:44.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:44.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:44.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:44.221 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.392A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.21W
+2025-07-25 22:56:45.215 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000086010080dc0000005a23000046000000ab41000006020000a508000096380000eb4384682600
+2025-07-25 22:56:45.215 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:45.215 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:45.216 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:45.216 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.390A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.18W
+2025-07-25 22:56:46.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000087010080dc0000005a23000046000000ab41000007020000a508000096380000ec4384682100
+2025-07-25 22:56:46.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:46.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:46.220 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:46.221 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.391A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.20W
+2025-07-25 22:56:47.276 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000088010080dc0000005a23000046000000ab41000008020000a508000096380000ed4384682000
+2025-07-25 22:56:47.276 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:47.276 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:47.276 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:47.277 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.392A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.21W
+2025-07-25 22:56:48.218 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000085010080dc0000005a23000046000000ab41000004020000a508000096380000ee4384682200
+2025-07-25 22:56:48.218 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:48.218 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:48.218 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:48.219 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.389A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.17W
+2025-07-25 22:56:49.213 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000082010080dc0000005a23000046000000ab41000000020000a508000096380000ef4384682000
+2025-07-25 22:56:49.213 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:49.213 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:49.213 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:49.214 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.386A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.13W
+2025-07-25 22:56:50.221 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000084010080dc0000005a23000046000000ab41000003020000a508000096380000f04384683a00
+2025-07-25 22:56:50.221 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:50.221 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:50.221 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:50.222 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.388A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.16W
+2025-07-25 22:56:51.263 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000084010080dc0000005a23000046000000ab41000003020000a508000096380000f14384683b00
+2025-07-25 22:56:51.263 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:51.263 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:51.263 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:51.263 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.388A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.16W
+2025-07-25 22:56:52.225 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] RX BLE data (50 bytes): 55aa2d0480aa01703105000085010080dc0000005a23000046000000ab41000004020000a508000096380000f24384683e00
+2025-07-25 22:56:52.226 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Processing packet type 0x04, length 50
+2025-07-25 22:56:52.226 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Skipping checksum validation for Pro BMS compatibility
+2025-07-25 22:56:52.226 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Received realtime data packet, length: 50
+2025-07-25 22:56:52.226 DEBUG (MainThread) [custom_components.bms_ble.pro_bms::Pro BMS:5E06)] Parsed data - Voltage: 13.29V, Current: -0.389A, SOC: 70%, Temp: 22.0°C, Remaining: 90.50Ah, Power: -5.17W
